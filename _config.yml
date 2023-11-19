@@ -292,7 +292,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "permalink: /about/"
+      path: ""
       type: pages
     values:
       layout: single
